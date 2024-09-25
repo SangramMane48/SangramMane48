@@ -1,4 +1,4 @@
-![MasterHead](https://ibagroupit.com/wp-content/uploads/2020/05/banner_1300-357_devops.png)
+![MasterHead]([https://ibagroupit.com/wp-content/uploads/2020/05/banner_1300-357_devops.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-photo%2Fdevopsdevops-banner-concept-3d-render_34431400.htm&psig=AOvVaw2EJ1o5moiTKWCrKb99rR_G&ust=1727328188078000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMiPp4qt3YgDFQAAAAAdAAAAABAE))
 <h1 align="center">Hi 👋, I'm Sangram Mane</h1>
 <h3 align="center">A passionate cloud engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/dev-ops-gif-dr.gif">
