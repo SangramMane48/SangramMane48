@@ -1,4 +1,4 @@
-![MasterHead](https://img.freepik.com/premium-photo/devopsdevops-banner-concept-3d-render_507676-2522.jpg)
+![MasterHead](https://previews.123rf.com/images/bearsky23/bearsky231909/bearsky23190900058/129846534-devops-icon-set-w-dev-ops-web-header-banner.jpg)
 <h1 align="center">Hi 👋, I'm Sangram Mane</h1>
 <h3 align="center">A passionate cloud engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/dev-ops-gif-dr.gif">
